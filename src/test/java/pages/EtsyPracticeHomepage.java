@@ -14,5 +14,5 @@ public class EtsyPracticeHomepage {
     public WebElement searchBox;
      @FindBy(xpath ="//button[@value='Search']")
     public WebElement searchKnopka;
-
+//
 }

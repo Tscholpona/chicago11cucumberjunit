@@ -16,6 +16,7 @@ public class EtsyHomePage {
 
     @FindBy(xpath = "//button[@value='Search']")
     public WebElement serchButton;
+    //
 
 
 
